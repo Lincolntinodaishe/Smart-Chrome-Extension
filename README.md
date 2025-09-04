@@ -1,4 +1,6 @@
 # Smart-Chrome-Extension
+![My Photo](https://github.com/Lincolntinodaishe/Smart-Chrome-Extension/blob/main/Screenshot%202025-09-04%20002627.png)
+
 A user-friendly Chrome extension to track your internship applications. Save entries manually, update application status, delete entries, and export your data to CSV. Built with HTML, CSS, and JavaScript using Chrome’s local storage. Perfect for students and job seekers who want a simple, organized way to manage their applications.
 
 # Application Tracker Chrome Extension
@@ -49,3 +51,4 @@ Application-tracker/
 - Import from CSV.
 - Sync across devices using Firebase.
 - More advanced filtering and sorting of applications.
+
